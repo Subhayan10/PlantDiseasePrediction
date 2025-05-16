@@ -1,3 +1,6 @@
+DEPLOYMENT LINK FOR THE FILE 
+https://plant-disease-prediction-and-fertilizer-suggestion-app.streamlit.app/
+
 # PlantDiseasePrediction
 
 # 🌿 Plant Disease Prediction App
@@ -80,3 +83,6 @@ bash
 Copy
 Edit
 streamlit run app.py
+
+
+
